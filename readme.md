@@ -25,7 +25,7 @@ $ cd dtmoney
 Installing dependencies
 
 ```
-$ yarn start
+$ yarn
 ```
 
 ## Running
