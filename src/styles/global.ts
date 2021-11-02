@@ -5,9 +5,9 @@ export const GlobalStyle = createGlobalStyle`
     --background: #f0f2f5;
     --red: #e52e4d;
     --green: #33cc95;
-    --blue: #6542cc;
-    --blue-light: #6933ff;
-    
+    --purple: #7159c1;
+    --purple-light: #8376ad;
+
     --text-title: #363f5f;
     --text-body: #969cb3;
     --shape: #ffffff;
@@ -72,7 +72,7 @@ export const GlobalStyle = createGlobalStyle`
     background: var(--background);
     padding: 3rem;
     position: relative;
-    border-radius: 0.24rem;   
+    border-radius: 0.24rem;
   }
 
   .react-modal-closer {
