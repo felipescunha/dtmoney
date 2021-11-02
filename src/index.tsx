@@ -15,10 +15,10 @@ createServer({
         {
           id: 1,
           title: 'Desenvolvimento de site',
-          amount: 1400,
+          amount: 8000,
           type: 'deposit',
           category: 'dev',
-          createdAt: new Date('2021-02-12 09:00:00'),
+          createdAt: new Date('2021-10-12 09:00:00'),
         },
         {
           id: 2,
@@ -26,7 +26,7 @@ createServer({
           amount: 120,
           type: 'withdraw',
           category: 'Food',
-          createdAt: new Date('2021-02-22 19:00:00'),
+          createdAt: new Date('2021-10-22 19:00:00'),
         }
       ]
     })
